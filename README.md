@@ -27,14 +27,14 @@ databases: ["MongoDB"],
       width="30" height="30" /> React
    <br>
    <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="nodejs" height="30" /> NodeJs
-   <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" height="30" /> Express 
+   <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" width="30" /> Express 
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" /> Git 
    <br>
    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30"
       height="30" /> Postman
-   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="SQLite" width="30"
+   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="SQLite" width="50"
       height="30" /> SQLite
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" width="30"
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" width="50"
       height="30" /> MongoDB
 </p>
 
