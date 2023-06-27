@@ -27,7 +27,7 @@ databases: ["MongoDB"],
       width="30" height="30" /> React
    <br>
    <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="nodejs" height="30" /> NodeJs
-   <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" width="30" /> Express 
+   <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" height="30" /> Express 
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" /> Git 
    <br>
    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30"
