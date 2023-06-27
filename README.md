@@ -17,19 +17,24 @@ databases: ["MongoDB"],
 ```
 ## Languages && Tools:
 <p align="left">
-   <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"
-      alt="javascript" width="30" height="30" /> Javascript
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"
       alt="html5" width="30" height="30" /> Html5
    <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="30"
-      height="30" />CSS3 <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react"
-      width="30" height="30" />React<img
-      src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="nodejs" height="30" />NodeJs
-   <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" height="30" />Express <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" />Git <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30"
-      height="30" />Postman
+      height="30" /> CSS3 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"
+      alt="javascript" width="30" height="30" /> Javascript
+   <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react"
+      width="30" height="30" /> React
+   <br>
+   <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="nodejs" height="30" /> NodeJs
+   <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" height="30" /> Express 
+   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" /> Git 
+   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30"
+      height="30" /> Postman
+   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="SQLite" width="30"
+      height="30" /> SQLite
+   <img src=" https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" width="30"
+      height="30" /> MongoDB
 </p>
 
 ## Puedes Encontrarme en:
