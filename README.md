@@ -50,5 +50,5 @@ databases: ["MongoDB"],
 </p>
 
 <h2>More About Me?</h2>
-<h4>My name is Mairene Villasmil, 28 years old, I have discovered a great passion for learning, innovating and
+<h4>My name is Mairene Villasmil, 30 years old, I have discovered a great passion for learning, innovating and
    discovering everything that the IT world offers, it has been a great learning path and many discoveries. </h4>
